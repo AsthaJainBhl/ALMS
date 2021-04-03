@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALMS.API", "ALMS.API\ALMS.API.csproj", "{9586DA44-862B-419E-B0D1-52E4500EFE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALMS.UI", "WebApplication1\ALMS.UI.csproj", "{86BFA6AC-BCE4-4E67-A997-BC21DE26F854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9586DA44-862B-419E-B0D1-52E4500EFE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9586DA44-862B-419E-B0D1-52E4500EFE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9586DA44-862B-419E-B0D1-52E4500EFE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9586DA44-862B-419E-B0D1-52E4500EFE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BFA6AC-BCE4-4E67-A997-BC21DE26F854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BFA6AC-BCE4-4E67-A997-BC21DE26F854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BFA6AC-BCE4-4E67-A997-BC21DE26F854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BFA6AC-BCE4-4E67-A997-BC21DE26F854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A876D7E9-8161-4E73-902F-EA5A43DA1149}
+	EndGlobalSection
+EndGlobal
